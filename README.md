@@ -51,7 +51,7 @@ The code performs the following steps:
 7.	If the driver is detected as drowsy or sleeping for a prolonged period, an alarm sound will be played.
 8.	Press the 'Esc' key to exit the application.  
 
-### Note   
+**Note**   
 The eye closure threshold and other parameters can be adjusted in the code to fine-tune the drowsiness detection sensitivity.
 
 
