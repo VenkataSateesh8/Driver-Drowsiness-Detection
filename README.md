@@ -9,7 +9,7 @@ The primary objective of this project is to develop a system that can accurately
 The project utilizes the Dlib library's facial landmark detector, specifically the 68-point facial landmark model, to identify key points on the driver's face. By analyzing these landmarks, particularly the eyes, the system determines whether the driver's eyes are open or closed.
 
 **68-Landmark Detector Data:**   
-The data file (.dat) for the 68-landmark detector used in the project can be found  going to **http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2**.
+The data file (.dat) for the 68-landmark detector used in the project can be found  by Copy and pasting the link **"http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2"** in browser.
 
 
 ### Code Explanation
